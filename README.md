@@ -170,13 +170,9 @@ A demonstration video of the project is available below.
 
 ## 👩‍💻 Author
 
-**Shrawani [Last Name]**
+**Shrawani Wagh**
 
 Electronics & Telecommunication Engineering Student
-
-- LinkedIn: *(Add link)*
-- GitHub: *(Add link)*
-
 ---
 
 ## ⭐ If you found this project interesting, consider giving it a star!
